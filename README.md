@@ -7,7 +7,7 @@
     <td style="object-fit: cover;"><img src="ss_2.png" alt="Product Page Screenshot" width="300"/></td>
   </tr>
 </table>
-This project is a static front-end clone of the Amazon shopping website. It's important to note that this clone is not responsive and may not provide an optimal viewing experience on all devices. The primary goal of this project is to showcase HTML and CSS skills in replicating a real-world website.fdgmj
+This project is a static front-end clone of the Amazon shopping website. It's important to note that this clone is not responsive and may not provide an optimal viewing experience on all devices. The primary goal of this project is to showcase HTML and CSS skills in replicating a real-world website.Dipamnshu Raj
 
 ## Demo
 ![Homepage Screenshot](ss_1.png)
