@@ -12,7 +12,7 @@ This project is a static front-end clone of the Amazon shopping website. It's im
 ## Demo
 ![Homepage Screenshot](ss_1.png)
 ![Product Page Screenshot](ss_2.png)
-
+//fdkojof
 
 ## Technologies Used
 
