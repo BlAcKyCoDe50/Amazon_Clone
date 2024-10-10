@@ -18,7 +18,7 @@ This project is a static front-end clone of the Amazon shopping website. It's im
 
 - HTML
 - CSS
-- Font Awesome (for icons)
+- Jenkins for CI / CD
 
 
 
