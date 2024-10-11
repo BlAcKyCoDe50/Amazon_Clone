@@ -1,7 +1,16 @@
 ﻿# Amazon Front-End Clone
 <h3>Site is live at : https://blackycode50.github.io/Amazon_Clone/
 </h3>
+
+## Jenkins Pipeline
+
+![image](https://github.com/user-attachments/assets/669d35a7-bc8f-41a5-979c-2e5801422d4c)
+![image](https://github.com/user-attachments/assets/eeb0edfe-7150-46ef-83c9-456ab3fa8f64)
+
+
+
 <table>
+  <h1>Images</h1>
   <tr>
     <td style="object-fit: cover;"><img src="ss_1.png" alt="Homepage Screenshot" width="300"/></td>
     <td style="object-fit: cover;"><img src="ss_2.png" alt="Product Page Screenshot" width="300"/></td>
